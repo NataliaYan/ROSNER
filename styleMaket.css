@@ -17,7 +17,7 @@ body {
 .blok {
   position: relative;
   min-width: 77.5em;
-  min-height: 54.6em;
+  min-height: 60em;
   padding: 2%;
 }
 
@@ -63,7 +63,6 @@ p {
 }
 .img_blok_3x6 {
   border-radius: 0.5em;
-
   width: 33%;
 }
 
