@@ -17,13 +17,13 @@ body {
 .blok {
   position: relative;
   min-width: 77.5em;
-  min-height: 60em;
+  min-height: 55em;
   padding: 2%;
 }
 
 .blok_1 {
   background-color: #f2f2f2;
-  height: 66%;
+  height: 96%;
   width: 28%;
   padding: 2%;
 }
@@ -41,7 +41,7 @@ body {
 }
 .blok_3 {
   background-color: #ffffff;
-  height: 56%;
+  height: 86%;
   width: 68%;
   left: 32%;
   top: 13%;
