@@ -2,12 +2,11 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
-}
+  }
 body {
   background-color: #e4e4e4;
   width: 98%;
-  height: 98%;
+  
   position: fixed;
 }
 .all-blok {
@@ -17,23 +16,23 @@ body {
 .blok {
   position: relative;
   min-width: 77.5em;
-  min-height: 55em;
+  min-height: 37.5em;
   padding: 2%;
 }
 
 .blok_1 {
   background-color: #f2f2f2;
-  height: 96%;
+  height: 95%;
   width: 28%;
-  padding: 2%;
+  padding: 1%;
 }
 
 .blok_2 {
   background-color: #ffffff;
-  height: 8%;
+  height: 10%;
   width: 68%;
   left: 32%;
-  padding: 2%;
+  padding: 1%;
 }
 .left {
   font-size: 2.5em;
@@ -41,11 +40,11 @@ body {
 }
 .blok_3 {
   background-color: #ffffff;
-  height: 86%;
+  height: 83%;
   width: 68%;
   left: 32%;
-  top: 13%;
-  padding: 2%;
+  top: 16%;
+  padding: 1%;
 }
 h1 {
   font-size: 1.6em;
